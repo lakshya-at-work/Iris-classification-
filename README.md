@@ -8,7 +8,7 @@ This project presents a user-friendly Streamlit application for multi-class clas
 
 Users can interactively set input parameters through sliders, text boxes, or other Streamlit widgets.
 Based on the provided parameters, the application predicts a class out of three possible categories using a pre-trained machine learning model.
-The predicted class along with relevant information is displayed for user interpretation.
+
 
 # Technology Stack:
 
