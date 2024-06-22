@@ -13,9 +13,10 @@ The predicted class along with relevant information is displayed for user interp
 # Technology Stack:
 
 Streamlit: Streamlines the creation of web applications for machine learning.
-Machine Learning Library (Replace with specific library used, e.g., scikit-learn, TensorFlow): Provides classification algorithms like decision trees, random forests, or deep neural networks (depending on your model).
+Machine Learning Library :scikit-learn
+Provides classification algorithms :logistic ,linea and svm 
 
 # Model:
 
-The application utilizes a pre-trained machine learning model for multi-class classification. Please specify the type of model used (e.g., decision tree, random forest, etc.) and its training details in the "Model Description" section below.
+The application utilizes a pre-trained machine learning model for multi-class classification. 
 
